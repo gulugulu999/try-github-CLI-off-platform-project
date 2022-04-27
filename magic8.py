@@ -1,6 +1,4 @@
 import random
-#add comment
-
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
